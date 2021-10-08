@@ -149,7 +149,7 @@ SaeedHaidar
 <summary><strong>Disabled Devices </strong></summary>
 <br>
 
-<p>GTX 1660Ti </p>
+<p>GTX 1650 </p>
 
 </details>
 
