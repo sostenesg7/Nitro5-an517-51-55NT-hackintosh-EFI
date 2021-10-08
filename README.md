@@ -12,7 +12,7 @@
 
 <h2>Nitro 5 an517-51-55NT Hackintosh</h2>
 <h3>- Opencore 0.7.4</h3>
-<h3>- Big Sur</h3>
+<h3>- Big Sur 11.6 <a href="https://drive.google.com/file/d/1ZcCYR50zWWtis6dxxKn3AInfBgs7ia6E/view">I used this ISO</a></h3>
 
 <br>
 <h4>This UEFI is initial made from: <a href="https://github.com/SaeedHaidar/Nitro-5-an517-51-Hackintosh">
